@@ -36,7 +36,7 @@
 ### Key Features <a name="key-features"></a>
 
 - API endpoint that returns a random greeting.
-- [React app](https://github.com/ikennarichard/hello-react-front-end)
+- [React app](https://github.com/ikennarichard/hello-react-front-end/tree/add-react-app)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
