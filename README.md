@@ -32,12 +32,11 @@
 ## 🛠 Built With <a name="built-with"></a>
 
 - `Rails`
-- `rack cors`
 
 ### Key Features <a name="key-features"></a>
 
-- an API endpoint that returns a random greeting.
-- [react app](https://github.com/ikennarichard/hello-react-front-end)
+- API endpoint that returns a random greeting.
+- [React app](https://github.com/ikennarichard/hello-react-front-end)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
